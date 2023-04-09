@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+flake8
+pandas
+numpy
+sklearn
